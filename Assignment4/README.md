@@ -1,0 +1,1 @@
+# README - Αzure Stream Analytics Queries
