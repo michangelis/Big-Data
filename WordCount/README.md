@@ -1,0 +1,1 @@
+## Small project showcasing Word Count, using Map Reduce
